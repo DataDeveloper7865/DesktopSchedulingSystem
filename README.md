@@ -14,4 +14,32 @@ An application for scheduling appointments complete with database functionality.
 
 ------------------------------------------------------------------PROGRAM--------------------------------------------------------------------
 
-![scenario](images/scenario.jpg)
+Login Screen
+
+![Login Screen](images/LoginScreen.JPG)
+
+Add Appointment
+
+![Add Appointment](images/AddAppointmentScreen.JPG)
+
+Add Customer
+
+![Add Customer](images/AddCustomer.JPG)
+
+Appointment List
+
+![Appointment List](images/AppointmentList.JPG)
+
+Modify Appointment
+
+![Modify Appointment](images/ModifyAppointment.JPG)
+
+Modify Customer
+
+![Modify Customer](images/ModifyCustomer.JPG)
+
+Report Screen
+
+![Report Screen](images/ReportScreen.JPG)
+
+
