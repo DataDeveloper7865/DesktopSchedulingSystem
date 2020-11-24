@@ -1,5 +1,5 @@
 # DesktopSchedulingSystem
-An application for scheduling appointments complete with database functionality. This was my second project for WGu written in Java.
+An application for scheduling appointments complete with database functionality. This was my second project for WGU written in Java.
 
 
 ---------------------------------------------------SCENARIO---------------------------------------------------
