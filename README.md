@@ -4,13 +4,13 @@ An application for scheduling appointments complete with database functionality.
 
 -----------------------------------------------------------------SCENARIO-------------------------------------------------------------------
 
-![scenario](/images/scenario.jpg)
+![scenario](/images/Scenario.jpg)
 
 ---------------------------------------------------------------REQUIREMENTS-----------------------------------------------------------------
 
-![scenario](/images/requirements1.jpg)
-![scenario](/images/requirements2.jpg)
-![scenario](/images/requirements3.jpg)
+![scenario](/images/Requirements1.jpg)
+![scenario](/images/Requirements2.jpg)
+![scenario](/images/Requirements3.jpg)
 
 ------------------------------------------------------------------PROGRAM--------------------------------------------------------------------
 
